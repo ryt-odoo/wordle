@@ -1,3 +1,3 @@
-import word_treatment
-import display
+import tools.word_treatment
+import tools.display
 
